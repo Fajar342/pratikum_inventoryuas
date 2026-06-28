@@ -1,1 +1,1 @@
-# pratikum_inventoryuas
+# praktikum_inventory
